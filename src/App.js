@@ -3,13 +3,13 @@ import './App.css';
 import * as Icon from 'react-feather';
 
 
-class App extends Component {
+//class App extends Component {
   render() {
-    return (
-      <div className="App">
+    //return (
+     // <div className="App">
       
-       <Icon.AlertCircle color="red" size={98} />
-      </div>
+       //<Icon.AlertCircle color="red" size={98} />
+     // </div>
     );
   }
 }
